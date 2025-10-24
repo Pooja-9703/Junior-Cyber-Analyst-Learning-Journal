@@ -1,0 +1,30 @@
+Module 2: Networking Fundamentals
+
+Submodule: Introduction to Networks
+Progress: Completed 2 out of 3 sections 
+Date: October 25, 2025
+
+Section 1: Introduction to Networks
+
+This section gave me a foundational understanding of how computer networks enable communication and data exchange between devices.
+I learned about:
+
+Nodes and Links: How different devices (nodes) connect and interact through physical or wireless links.
+
+Network Types: The differences between LAN, WAN, and other types of networks, and how they serve various purposes.
+
+Importance of Networks: Why modern systems rely so heavily on connectivity for efficiency and accessibility.
+
+LAN and WAN Integration: How local and wide area networks work together to create scalable infrastructures.
+
+.................................................................................................................................................
+Section 2: Network Concepts
+
+In this section, I explored the key models and protocols that form the backbone of network communication.
+I learned about:
+
+OSI and TCP/IP Models: How each model layers communication processes, and how they compare in real-world usage.
+
+Common Network Protocols: Understanding HTTP, FTP, SMTP, TCP, UDP, and IP — and the roles they play in data transmission.
+
+Transmission Types, Modes, and Media: How data moves across networks through various physical and logical means.
